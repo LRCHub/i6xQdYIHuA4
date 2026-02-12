@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "俺と一緒になってくれ",
+  "base_artist": "心之助",
+  "createdAt": "2026-02-12T12:16:38.993865Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "俺と一緒になってくれ",
+      "artist": "心之助",
+      "has_synced": false,
+      "path": "select/pl_01_俺と一緒になってくれ_心之助.txt"
+    }
+  ]
+}
